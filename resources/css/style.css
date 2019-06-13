@@ -1,0 +1,163 @@
+/* General */
+
+html {
+  font-size: 16px;
+  margin:0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+body {
+  margin:0;
+}
+
+h1 {
+  font-size: 2.3rem;
+  line-height: 1.5;
+  text-transform: lowercase;
+}
+
+h2 {
+  text-transform: lowercase;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h3 {
+  text-transform: lowercase;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 2rem;
+}
+
+/* Header */
+
+header {
+  width: 100%;
+}
+
+.header-img {
+  background-size: cover;
+  background-position: center center;
+  height: 1000px;
+  position:relative;
+}
+
+.header-img::before {
+  content:'';
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.jumbotron {
+    color: white !important;
+    background:none !important;
+    position: relative !important;
+    justify-content: center !important;
+
+}
+
+header {
+  width: 100%;
+}
+
+#background {
+    color: white !important;
+    background: goldenrod !important;
+    font-size: 2rem !important;
+    padding: 50px !important;
+    height: 950px;
+    align-content: center !important;
+    text-align: center !important;
+}
+
+.header-container{
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+.divider {
+  margin: 5rem 0;
+}
+
+
+.section-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+.title-aboutme {
+  padding-top: 80px;
+  padding-bottom: 0;
+  text-align: center;
+}
+
+.title-projects {
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.title-contact {
+  text-align: center;
+}
+
+/*projects*/
+.projects .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.projects h2 {
+  font-weight: 400;
+}
+.projects .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+/*contact me*/
+
+
+/*footer*/
+footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  border-top: .05rem solid #e5e5e5;
+}
+
+
+
+/*mobile*/
+@media all and (max-width: 767px){
+  .form__container {
+    margin: 0;
+    padding: 16px;
+  }
+
+  .header-img {
+    max-width: 100%;
+    height:auto;
+  }
+
+
+}
+
+.form__container {
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 16px;
+  padding: 32px;
+  box-shadow: $bs;
+  border-radius: 4px;
+}

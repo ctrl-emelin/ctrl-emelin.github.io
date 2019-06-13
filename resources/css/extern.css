@@ -1,0 +1,339 @@
+/* General */
+
+html {
+  font-size: 16px;
+  margin:0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+body {
+  margin:0;
+}
+
+h1 {
+  font-size: 2.3rem;
+  line-height: 1.5;
+  text-transform: lowercase;
+}
+
+h2 {
+  text-transform: lowercase;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h3 {
+  text-transform: lowercase;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 2rem;
+}
+
+/* Header */
+
+header {
+  width: 100%;
+}
+
+.jumbotron {
+    color: white !important;
+    background: goldenrod !important;
+    font-size: 2rem !important;
+    padding: 50px !important;
+    height: 950px;
+    align-content: center !important;
+    text-align: center !important;
+}
+
+.header-container{
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+.introduction {
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.description-container {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.description-title {
+  padding-bottom: 75px;
+  text-align: center;
+}
+
+.lead {
+  color: black !important;
+  text-transform: lowercase !important;
+  text-align: center !important;
+}
+
+/*analytical sections*/
+
+.analytical-section {
+  width: 100%;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.analytical-container{
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: darkseagreen;
+  box-shadow: -1.8px 26.4px 55.5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.analytical-text-box {
+  width: 40%;
+  display: inline-block;
+  padding-top: 100px;
+  padding-left: 75px;
+  padding-bottom: 200px;
+}
+
+.analytical-image-box {
+  width: 59%;
+  display: inline-block;
+  float: right;
+  margin-top:-150px;
+}
+
+.analytical-image {
+  height: 800px;
+  width: 800px;
+  background-image: url("https://s3.us-east-2.amazonaws.com/hackkru/njtech/industry.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.analytical-section-a{
+  width: 100%;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.analytical-container-a{
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightcoral;
+  box-shadow: -1.8px 26.4px 55.5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.analytical-text-box-a{
+  width: 40%;
+  display: inline-block;
+  padding-top: 100px;
+  padding-left: 75px;
+  padding-bottom: 200px;
+
+}
+
+.analytical-image-box-a {
+  width: 59%;
+  display: inline-block;
+  float: right;
+  margin-top:-165px;
+}
+
+.analytical-image-a {
+  height: 800px;
+  width: 800px;
+  background-image: url("https://s3.us-east-2.amazonaws.com/hackkru/njtech/womenvsmen.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.analytical-section-b{
+  width: 100%;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.analytical-container-b{
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightsteelblue;
+  box-shadow: -1.8px 26.4px 55.5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.analytical-text-box-b{
+  width: 40%;
+  display: inline-block;
+  padding-top: 100px;
+  padding-left: 75px;
+  padding-bottom: 200px;
+
+}
+
+.analytical-image-box-b {
+  width: 59%;
+  display: inline-block;
+  float: right;
+  margin-top:-130px;
+}
+
+.analytical-image-b {
+  height: 800px;
+  width: 800px;
+  background-image: url("https://s3.us-east-2.amazonaws.com/hackkru/njtech/NYCstartup.PNG");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+
+.analytical-section-c{
+  width: 100%;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.analytical-container-c{
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: lightblue;
+  box-shadow: -1.8px 26.4px 55.5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.analytical-text-box-c{
+  width: 40%;
+  display: inline-block;
+  padding-top: 100px;
+  padding-left: 75px;
+  padding-bottom: 200px;
+}
+
+.analytical-image-box-c {
+  width: 59%;
+  display: inline-block;
+  float: right;
+  margin-top:-130px;
+}
+
+.analytical-image-c {
+  height: 800px;
+  width: 800px;
+  background-image: url("https://s3.us-east-2.amazonaws.com/hackkru/njtech/phillystartup.PNG");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.outreach-section-d{
+  width: 100%;
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.outreach-container-d{
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: plum;
+  box-shadow: -1.8px 26.4px 55.5px 0 rgba(0, 0, 0, 0.1);
+}
+
+.outreach-text-box-d{
+  width: auto;
+  display: inline-block;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.outreach-title {
+  text-align: center;
+}
+
+.divider {
+  margin: 5rem 0;
+}
+
+/*projects*/
+.projects .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.projects h2 {
+  font-weight: 400;
+}
+.projects .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+/*contact me*/
+
+
+/*footer*/
+footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  border-top: .05rem solid #e5e5e5;
+}
+
+
+
+/*mobile*/
+@media(max-width:1225px){
+  .form__container {
+    margin: 0;
+    padding: 16px;
+  }
+
+  .header-background {
+    max-width: 100%;
+    height:auto;
+  }
+
+.introduction {
+  width: 100%;
+  height: auto;
+}
+
+.analytical-section {
+  display: inherit;
+  width: auto;
+
+  padding-left: 50px;
+  padding-right: 50px;
+
+  padding-top: 125px;
+  padding-bottom: 125px;
+}
+
+.analytical-container{
+
+}
+
+.form__container {
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 16px;
+  padding: 32px;
+  box-shadow: $bs;
+  border-radius: 4px;
+}
+}
