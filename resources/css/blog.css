@@ -69,13 +69,15 @@ header {
 
 #background {
     color: white !important;
-    background: goldenrod !important;
+    background: #5a76a6 !important;
     font-size: 2rem !important;
     padding: 50px !important;
-    height: 950px;
+    height: 820px;
     align-content: center !important;
     text-align: center !important;
 }
+
+
 
 .header-container{
     left: 0;
@@ -151,13 +153,4 @@ footer {
   }
 
 
-}
-
-.form__container {
-  background: #fff;
-  margin: 0 auto;
-  margin-top: 16px;
-  padding: 32px;
-  box-shadow: $bs;
-  border-radius: 4px;
 }
