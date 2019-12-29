@@ -141,7 +141,7 @@ footer {
 
 
 /*mobile*/
-@media all and (max-width: 767px){
+@media all and (max-width: 1024px){
   .form__container {
     margin: 0;
     padding: 16px;
