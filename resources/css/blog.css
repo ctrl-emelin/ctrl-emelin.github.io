@@ -138,19 +138,3 @@ footer {
   border-top: .05rem solid #e5e5e5;
 }
 
-
-
-/*mobile*/
-@media all and (max-width: 1024px){
-  .form__container {
-    margin: 0;
-    padding: 16px;
-  }
-
-  .header-img {
-    max-width: 100%;
-    height:auto;
-  }
-
-
-}
