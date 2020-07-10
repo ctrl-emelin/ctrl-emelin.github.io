@@ -8,4 +8,4 @@ My name is Emelin. I'm a second semester senior at Rutgers University studying I
 
 😄 Pronouns: She/Her
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emelinflores01/), [Twitter](https://twitter.com/fsemmha), 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emelinflores01/) and [Twitter](https://twitter.com/fsemmha)
